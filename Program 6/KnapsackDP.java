@@ -1,3 +1,7 @@
+//Implement in java ,the 0/1 Knapsack Problem using 
+// (i.) Dynamic Programming Method.
+// (ii.)Greedy Method.
+
 import java.io.*;
 import java.util.*;
 
