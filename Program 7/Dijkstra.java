@@ -45,7 +45,7 @@ public class Dijkstra
         {
             visited[i]=0;
             dist[i]=cost[sv][i];
-            if(cost[v][i]==999)
+            if(cost[sv][i]==999)
                 path[i]=0;
             else
                 path[i]=sv;
